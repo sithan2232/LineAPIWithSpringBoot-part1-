@@ -10,6 +10,8 @@ Remind myself
 
 ![](https://github.com/sithan2232/LineAPIWithSpringBoot/blob/master/image/Screen%20Shot%202563-09-23%20at%2021.15.40.png)
 
+![](https://github.com/sithan2232/LineAPIWithSpringBoot/blob/master/image/Screen%20Shot%202563-09-23%20at%2021.37.39.png)
+
 เสริมวิธี Webhook URL ในที่นี้เราต้องใช้เป็น https เเต่ในเคสนี้ผมใช้เป็น localhost เเล้วใช้ ngrok เอา(ngrok มันจะเอา localhost server ที่รันอยู่นะตอนนั้นเปลี่ยนเป็น https เเละ อนุญาติให้คนอื่นเข้าถึงได้) โดยวิธีติดตั้งเเละ start sever อยู่ตาม link:https://www.youtube.com/watch?v=Cin8DM-xsUI
 
 ในขั้นตอนการใส่ Webhook URL ก็ใส่ตาม vdo เเต่ เปลี่ยน pathเป็น /Webhook เนื่องจากในโค้ดเราเซ็ตไว้
